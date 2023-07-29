@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  final_code.cpp
+e:\hoangdang\2023\hust\c-c++ programming techniques\hust classes\final_code\final_code\final_code.cpp(243): warning C4018: '<=': signed/unsigned mismatch
+e:\hoangdang\2023\hust\c-c++ programming techniques\hust classes\final_code\final_code\final_code.cpp(366): warning C4018: '<': signed/unsigned mismatch
+e:\hoangdang\2023\hust\c-c++ programming techniques\hust classes\final_code\final_code\final_code.cpp(369): warning C4018: '<': signed/unsigned mismatch
+  final_code.vcxproj -> E:\HoangDang\2023\HUST\C-C++ Programming Techniques\HUST Classes\final_code\Debug\final_code.exe
+  final_code.vcxproj -> E:\HoangDang\2023\HUST\C-C++ Programming Techniques\HUST Classes\final_code\Debug\final_code.pdb (Full PDB)
